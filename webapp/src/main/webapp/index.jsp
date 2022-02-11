@@ -1,5 +1,5 @@
-<h1> Hello, Welcome to Simple DevOps Project  !! Revision  </h1>
-<h1> Hello, Welcome to Simple DevOps Project  !!  Revision </h1>
+<h1> Hello, Welcome to Simple DevOps Project  !! Revision with pull scm </h1>
+<h1> Hello, Welcome to Simple DevOps Project  !!  Revision  with pull scm</h1>
 <h1> Hello, Welcome to Simple DevOps Project  !!   Revision </h1>
 <h1> Hello, Welcome to Simple DevOps Project  !!   </h1>
 <h1> Hello, Welcome to Simple DevOps Project  !!   </h1>
